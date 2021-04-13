@@ -6,11 +6,11 @@
         Brady
 ## datasets:
 
-    A dataset measuring [arrest reports](https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f) in certain neighborhoods.
+    A dataset measuring arrest reports in certain neighborhoods.(https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f)
     
-    A dataset measuring [traffic data](https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh/resource/6dfd4f8f-cbf5-4917-a5eb-fd07f4403167) in neighborhoods
+    A dataset measuring traffic data in neighborhoods. (https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh/resource/6dfd4f8f-cbf5-4917-a5eb-fd07f4403167)
     
-    A dataset measuring [public art](https://data.wprdc.org/dataset/city-of-pittsburgh-public-art/resource/00d74e83-8a23-486e-841b-286e1332a151) found in different Pittsburgh neighborhoods.
+    A dataset measuring public art found in different Pittsburgh neighborhoods. (https://data.wprdc.org/dataset/city-of-pittsburgh-public-art/resource/00d74e83-8a23-486e-841b-286e1332a151)
               
 ## Abstract
 This is our final project for CMPINF 0010.  We will be determining what the best neighborhood in Pittsburgh is. The metrics we have decided to use are the number of arrests in a neighborhood, the amount of traffic, and the number of public art in various Pittsburgh neighborhoods.
