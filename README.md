@@ -1,9 +1,9 @@
 # Best Neighborhood in Pittsburgh Final-Project
 ## Team 7
    Members:
-        Miles Hamilton / MIH148@pitt.edu
-        Hannah Harhai / HEH55@pitt.edu
-        Brady Snyder / BCS66@pitt.edu
+        Miles Hamilton / MIH148@pitt.edu ,
+        Hannah Harhai / HEH55@pitt.edu , 
+        Brady Snyder / BCS66@pitt.edu , 
 ## datasets:
 
    A dataset measuring arrest reports in certain neighborhoods.(https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f)
